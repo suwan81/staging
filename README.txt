@@ -1,7 +1,8 @@
 The greenplum binary file can be downloaded from the pivotal homepage.
 The files related to rhel75 and rpms are uploaded to staging here.
+The location of the staging directory is /data/staging in the master node.
 
-staging/
+/data/staging/
 ├── 6-11-1
 ├── 6-13-0
 ├── 6-14-0

@@ -1,7 +1,7 @@
 The greenplum binary file can be downloaded from the pivotal homepage.
 The files related to rhel75 and rpms are uploaded to staging here.
 
-/data/staging/
+staging/
 ├── 6-11-1
 ├── 6-13-0
 ├── 6-14-0
